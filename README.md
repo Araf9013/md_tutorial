@@ -1,6 +1,6 @@
 <h1 align="center">The Noble Quran</h1>
 
-The official source code repository for Quran.com
+<p align="cneter"> The official source code repository for Quran.com</p>
 
 [Join Quran.com community »](www.google.com)
 
