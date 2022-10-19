@@ -1,5 +1,4 @@
-<h1 allign ="center"> The Noble Quran</h1>
-
+<h1 align="center">The Noble Quran</h1>
 
 The official source code repository for Quran.com
 
@@ -43,7 +42,7 @@ Thank you for taking time to file a bug! We'd appreciate your help on fixing it 
 ### Community
 [Join Quran.com Discord community »](Google.com)
 
-###Credits
+### Credits
 - Localization was made possible by the help of [Lokalise](Lokalise.com) which is computer-aided translation system that fopcuses on productivity and quality assurance nad provides a seamless localization workflow.
 
 ![Lokalise](https://user-images.githubusercontent.com/15169499/139687128-15ed6189-6be2-44bf-9173-75cce317d546.png)
