@@ -7,7 +7,7 @@ The official source code repository for Quran.com
 
 [VisitiQuran.com*](quran.com)[Report Bugs*](bugs.com)[Request Feature*](feeature.com)[Storybook](Storybook.com)
 
-###How to contribute
+### How to contribute
 
 We trust thast you will not copy this idea/project, this is at the end for the sake of Allah and we all have goof intentions while working with this project . But we must stress that copying the code/ project is unacceptable.
 
@@ -50,4 +50,4 @@ Thank you for taking time to file a bug! We'd appreciate your help on fixing it 
 
 - Deployment was made posiible by the help [Vercel](Vercel.com) whoch is deployment and collaboration platform for fronted developers whioch puts fronted develpoer first, giving them the3 comprehensive tools to build high-performance websites asnd application.
 
-[](https://user-images.githubusercontent.com/15169499/147745340-b7e84819-d1b0-4399-87a0-d5276ba21bca.png)
+[Powered by Vercel](https://user-images.githubusercontent.com/15169499/147745340-b7e84819-d1b0-4399-87a0-d5276ba21bca.png)
