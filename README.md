@@ -1,9 +1,9 @@
-# The Noble Quran
+<h1 allign ="center"> The Noble Quran</h1>
 
 
 The official source code repository for Quran.com
 
-[Join Quran.com community >>](www.google.com)
+[Join Quran.com community »](www.google.com)
 
 [VisitiQuran.com*](quran.com)[Report Bugs*](bugs.com)[Request Feature*](feeature.com)[Storybook](Storybook.com)
 
@@ -41,7 +41,7 @@ We chose typescript to help out n, please look at issues on the Github repo. Thi
 Thank you for taking time to file a bug! We'd appreciate your help on fixing it 🙏. Please [Open an Issue](Google.com).
 
 ### Community
-[Join Quran.com Discord community >>](Google.com)
+[Join Quran.com Discord community »](Google.com)
 
 ###Credits
 - Localization was made possible by the help of [Lokalise](Lokalise.com) which is computer-aided translation system that fopcuses on productivity and quality assurance nad provides a seamless localization workflow.
