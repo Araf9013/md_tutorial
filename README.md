@@ -4,7 +4,7 @@
     The official source code repository for Quran.com
     <br />
 <p align="center">
-[Join Quran.com community »](www.google.com)
+<a href="https://discord.gg/SpEeJ5bWEQ">Join Quran.com community »</a>
 </br>
 [VisitiQuran.com](quran.com)- 
   [Report Bugs*](bugs.com)- 
