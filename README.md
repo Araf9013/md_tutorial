@@ -3,9 +3,9 @@
 <p align="center">
     The official source code repository for Quran.com
     <br />
-
+<p align="center">
 [Join Quran.com community »](www.google.com)
-
+</br>
 [VisitiQuran.com](quran.com)- 
   [Report Bugs*](bugs.com)- 
   [Request Feature*](feeature.com)- 
