@@ -6,11 +6,13 @@
 <p align="center">
 <a href="https://discord.gg/SpEeJ5bWEQ">Join Quran.com community »</a>
 </br>
-[VisitiQuran.com](quran.com)- 
-  [Report Bugs*](bugs.com)- 
-  [Request Feature*](feeature.com)- 
-  [Storybook](Storybook.com)
 
+<p align="center">
+[VisitiQuran.com](quran.com)• 
+  [Report Bugs*](bugs.com)• 
+  [Request Feature*](feeature.com)• 
+  [Storybook](Storybook.com)
+</br>
 ### How to contribute
 
 We trust thast you will not copy this idea/project, this is at the end for the sake of Allah and we all have goof intentions while working with this project . But we must stress that copying the code/ project is unacceptable.
