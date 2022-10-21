@@ -4,15 +4,18 @@
     The official source code repository for Quran.com
     <br />
 <p align="center">
-<a href="https://discord.gg/SpEeJ5bWEQ">Join Quran.com community »</a>
+<a href="https://google.com">Join Quran.com community »</a>
 </br>
+</br>
+<a href="https://quran.com">Visit Quran.com</a>
+    ·
+    <a href="https://github.com/quran/quran.com-frontend-next/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/quran/quran.com-frontend-next/issues">Request Feature</a>
+    •
+    <a href="https://quran.github.io/quran.com-frontend-next/storybook/master">Storybook</a>
+  </p>
 
-<p align="center">
-[VisitiQuran.com](quran.com)• 
-  [Report Bugs*](bugs.com)• 
-  [Request Feature*](feeature.com)• 
-  [Storybook](Storybook.com)
-</br>
 ### How to contribute
 
 We trust thast you will not copy this idea/project, this is at the end for the sake of Allah and we all have goof intentions while working with this project . But we must stress that copying the code/ project is unacceptable.
