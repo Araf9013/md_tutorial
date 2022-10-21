@@ -1,5 +1,5 @@
 
-![https://www.cleanpng.com/png-quran-link-free-android-tajwid-1681377/](The noble quran)
+![The Noble Quran]([The noble quran](https://www.cleanpng.com/png-quran-link-free-android-tajwid-1681377/))
 
 
 <h1 align="center">The Noble Quran</h1>
