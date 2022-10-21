@@ -9,11 +9,11 @@
 </br>
 <a href="https://quran.com">Visit Quran.com</a>
     ·
-    <a href="https://github.com/quran/quran.com-frontend-next/issues">Report Bug</a>
+    <a href="https://google.com">Report Bug</a>
     ·
-    <a href="https://github.com/quran/quran.com-frontend-next/issues">Request Feature</a>
+    <a href="https://google.com">Request Feature</a>
     •
-    <a href="https://quran.github.io/quran.com-frontend-next/storybook/master">Storybook</a>
+    <a href="https://google.com">Storybook</a>
   </p>
 
 ### How to contribute
